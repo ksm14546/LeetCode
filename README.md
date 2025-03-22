@@ -1,5 +1,5 @@
 # LeetCode
-This Repository contains my leetcode solutions 
+This Repository contains my leetcode solutions in C++ or Java 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
