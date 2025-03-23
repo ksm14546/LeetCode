@@ -12,6 +12,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ksm14546/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/ksm14546/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
