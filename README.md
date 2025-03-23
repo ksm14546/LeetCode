@@ -13,6 +13,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2058-concatenation-of-array](https://github.com/ksm14546/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ksm14546/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
