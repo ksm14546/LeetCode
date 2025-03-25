@@ -19,10 +19,12 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
@@ -40,4 +42,5 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ksm14546/LeetCode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
