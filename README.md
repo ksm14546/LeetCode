@@ -32,4 +32,12 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ksm14546/LeetCode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ksm14546/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
