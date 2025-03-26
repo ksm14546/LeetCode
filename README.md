@@ -41,6 +41,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/ksm14546/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ksm14546/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
