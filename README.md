@@ -12,6 +12,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ksm14546/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -19,11 +20,13 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
@@ -44,4 +47,12 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0058-length-of-last-word](https://github.com/ksm14546/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ksm14546/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
