@@ -12,6 +12,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ksm14546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -60,4 +61,8 @@ This Repository contains my leetcode solutions in C++ or Java
 | ------- |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ksm14546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
