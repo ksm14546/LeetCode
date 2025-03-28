@@ -22,6 +22,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -48,6 +49,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | ------- |
 | [0058-length-of-last-word](https://github.com/ksm14546/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ksm14546/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -57,4 +59,5 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
