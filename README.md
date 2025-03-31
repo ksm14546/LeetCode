@@ -13,6 +13,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksm14546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ksm14546/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -65,4 +66,8 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksm14546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ksm14546/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
