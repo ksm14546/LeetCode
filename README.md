@@ -20,6 +20,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ksm14546/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/ksm14546/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/ksm14546/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -72,4 +73,8 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ksm14546/LeetCode/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/ksm14546/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
