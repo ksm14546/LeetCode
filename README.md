@@ -10,6 +10,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0189-rotate-array](https://github.com/ksm14546/LeetCode/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/ksm14546/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2812-find-the-maximum-achievable-number](https://github.com/ksm14546/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Array
 |  |
 | ------- |
