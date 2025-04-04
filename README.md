@@ -12,6 +12,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ksm14546/LeetCode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksm14546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ksm14546/LeetCode/tree/master/0136-single-number) |
@@ -50,6 +51,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ksm14546/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ksm14546/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
