@@ -15,6 +15,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ksm14546/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ksm14546/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ksm14546/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -34,6 +35,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ksm14546/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ksm14546/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
