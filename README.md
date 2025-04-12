@@ -10,6 +10,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0189-rotate-array](https://github.com/ksm14546/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ksm14546/LeetCode/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2491-smallest-even-multiple](https://github.com/ksm14546/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/ksm14546/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ksm14546/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Array
@@ -103,4 +104,8 @@ This Repository contains my leetcode solutions in C++ or Java
 | ------- |
 | [0724-find-pivot-index](https://github.com/ksm14546/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/ksm14546/LeetCode/tree/master/1833-find-the-highest-altitude) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/ksm14546/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
