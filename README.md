@@ -31,6 +31,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0724-find-pivot-index](https://github.com/ksm14546/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ksm14546/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/ksm14546/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ksm14546/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/ksm14546/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -103,6 +104,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ksm14546/LeetCode/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/ksm14546/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ksm14546/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Number Theory
 |  |
