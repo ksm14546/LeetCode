@@ -31,6 +31,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ksm14546/LeetCode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/ksm14546/LeetCode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ksm14546/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/ksm14546/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -129,5 +130,6 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/ksm14546/LeetCode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
