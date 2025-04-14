@@ -9,6 +9,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0009-palindrome-number](https://github.com/ksm14546/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ksm14546/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ksm14546/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/ksm14546/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/ksm14546/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -27,6 +28,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ksm14546/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ksm14546/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -47,6 +49,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0202-happy-number](https://github.com/ksm14546/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -99,6 +102,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ksm14546/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -110,6 +114,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ksm14546/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,5 +128,6 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
