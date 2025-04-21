@@ -7,6 +7,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ksm14546/LeetCode/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/ksm14546/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ksm14546/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ksm14546/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
