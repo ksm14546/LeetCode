@@ -21,6 +21,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0001-two-sum](https://github.com/ksm14546/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ksm14546/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ksm14546/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ksm14546/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ksm14546/LeetCode/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ksm14546/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
