@@ -27,6 +27,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0035-search-insert-position](https://github.com/ksm14546/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ksm14546/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ksm14546/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ksm14546/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ksm14546/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ksm14546/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksm14546/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ksm14546/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ksm14546/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ksm14546/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
@@ -165,4 +167,8 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ksm14546/LeetCode/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ksm14546/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
