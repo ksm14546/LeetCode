@@ -185,5 +185,10 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ksm14546/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ksm14546/LeetCode/tree/master/0328-odd-even-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ksm14546/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
