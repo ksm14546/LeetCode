@@ -89,6 +89,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ksm14546/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ksm14546/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ksm14546/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ksm14546/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -186,6 +187,7 @@ This Repository contains my leetcode solutions in C++ or Java
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ksm14546/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/ksm14546/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ksm14546/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ksm14546/LeetCode/tree/master/0908-middle-of-the-linked-list) |
