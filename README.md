@@ -53,6 +53,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [2271-rearrange-array-elements-by-sign](https://github.com/ksm14546/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ksm14546/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-find-words-containing-character](https://github.com/ksm14546/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/ksm14546/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0125-valid-palindrome](https://github.com/ksm14546/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
+| [3194-find-words-containing-character](https://github.com/ksm14546/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Divide and Conquer
 |  |
 | ------- |
