@@ -182,4 +182,8 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ksm14546/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/ksm14546/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
