@@ -37,6 +37,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0136-single-number](https://github.com/ksm14546/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ksm14546/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ksm14546/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ksm14546/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
@@ -170,6 +171,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0035-search-insert-position](https://github.com/ksm14546/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ksm14546/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ksm14546/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ksm14546/LeetCode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
