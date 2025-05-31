@@ -16,6 +16,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/ksm14546/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/ksm14546/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/ksm14546/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ksm14546/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ksm14546/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ksm14546/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
