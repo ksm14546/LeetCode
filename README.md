@@ -46,6 +46,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ksm14546/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ksm14546/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ksm14546/LeetCode/tree/master/0792-binary-search) |
@@ -74,6 +75,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -84,6 +86,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | ------- |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ksm14546/LeetCode/tree/master/0383-ransom-note) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
@@ -133,6 +136,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ksm14546/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ksm14546/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +147,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ksm14546/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -227,4 +232,16 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ksm14546/LeetCode/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
