@@ -61,6 +61,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [2876-number-of-employees-who-met-the-target](https://github.com/ksm14546/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/ksm14546/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/ksm14546/LeetCode/tree/master/3226-minimum-number-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ksm14546/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/ksm14546/LeetCode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
@@ -94,6 +95,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ksm14546/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ksm14546/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3226-minimum-number-game](https://github.com/ksm14546/LeetCode/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -150,6 +152,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ksm14546/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/ksm14546/LeetCode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +239,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3226-minimum-number-game](https://github.com/ksm14546/LeetCode/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
