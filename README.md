@@ -43,6 +43,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0162-find-peak-element](https://github.com/ksm14546/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ksm14546/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/ksm14546/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ksm14546/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0141-linked-list-cycle](https://github.com/ksm14546/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ksm14546/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ksm14546/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
@@ -148,6 +150,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0075-sort-colors](https://github.com/ksm14546/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ksm14546/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ksm14546/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ksm14546/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
