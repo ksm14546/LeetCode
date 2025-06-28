@@ -46,6 +46,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0229-majority-element-ii](https://github.com/ksm14546/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ksm14546/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ksm14546/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ksm14546/LeetCode/tree/master/0724-find-pivot-index) |
@@ -116,6 +117,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0148-sort-list](https://github.com/ksm14546/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ksm14546/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ksm14546/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ksm14546/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/ksm14546/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ksm14546/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ksm14546/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -168,6 +170,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0190-reverse-bits](https://github.com/ksm14546/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ksm14546/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ksm14546/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ksm14546/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ksm14546/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
@@ -190,6 +193,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ksm14546/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ksm14546/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ksm14546/LeetCode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
