@@ -49,6 +49,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ksm14546/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/ksm14546/LeetCode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ksm14546/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ksm14546/LeetCode/tree/master/0792-binary-search) |
@@ -155,6 +156,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0242-valid-anagram](https://github.com/ksm14546/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ksm14546/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ksm14546/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/ksm14546/LeetCode/tree/master/0414-third-maximum-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ksm14546/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ksm14546/LeetCode/tree/master/3226-minimum-number-game) |
