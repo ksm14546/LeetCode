@@ -212,6 +212,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0042-trapping-rain-water](https://github.com/ksm14546/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ksm14546/LeetCode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/ksm14546/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ksm14546/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -266,8 +267,10 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ksm14546/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ksm14546/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ksm14546/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ksm14546/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
