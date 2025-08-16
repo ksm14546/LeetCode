@@ -24,6 +24,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ksm14546/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ksm14546/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ksm14546/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ksm14546/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ksm14546/LeetCode/tree/master/0027-remove-element) |
@@ -131,6 +132,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ksm14546/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ksm14546/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ksm14546/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ksm14546/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ksm14546/LeetCode/tree/master/0125-valid-palindrome) |
@@ -273,4 +275,8 @@ This Repository contains my leetcode solutions in C++ or Java
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ksm14546/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ksm14546/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ksm14546/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
