@@ -296,4 +296,8 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ksm14546/LeetCode/tree/master/0948-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ksm14546/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
