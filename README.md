@@ -62,6 +62,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0792-binary-search](https://github.com/ksm14546/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/ksm14546/LeetCode/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ksm14546/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1470-shuffle-the-array](https://github.com/ksm14546/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ksm14546/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/ksm14546/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
