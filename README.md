@@ -69,6 +69,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [1603-running-sum-of-1d-array](https://github.com/ksm14546/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ksm14546/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ksm14546/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ksm14546/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2058-concatenation-of-array](https://github.com/ksm14546/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ksm14546/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ksm14546/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -118,6 +119,7 @@ This Repository contains my leetcode solutions in C++ or Java
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ksm14546/LeetCode/tree/master/0605-can-place-flowers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ksm14546/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +138,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0202-happy-number](https://github.com/ksm14546/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ksm14546/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/ksm14546/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ksm14546/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ksm14546/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ksm14546/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -177,6 +180,7 @@ This Repository contains my leetcode solutions in C++ or Java
 | [0414-third-maximum-number](https://github.com/ksm14546/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/ksm14546/LeetCode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/ksm14546/LeetCode/tree/master/0948-sort-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ksm14546/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ksm14546/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ksm14546/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ksm14546/LeetCode/tree/master/3226-minimum-number-game) |
